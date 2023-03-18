@@ -1,27 +1,13 @@
-.body{
-    background-color: rgb(63, 61, 61);
-    }
-    
-    
-    .bir:hover{
-        text-align: center;
-        }
-    
-    .ikki{
-        text-align: center;}
-    
-    .uch{
-        text-align: center;}
-    
-    .tort{
-        text-align: center;}
-    
-    .besh{
-        text-align: center;}
-    
-    .olti{
-        text-align: center;}
-    
-    .yetti{
-        text-align: center;}
-    
+#btn{
+border-radius: 30px;
+width: 50px;
+height: 10px;
+border: none;
+padding: 10px;
+outline: none
+
+}
+body{
+background-color:rgb(157, 49, 49);overscroll-behavior-block: ;}
+.bir{
+text-align: center;}
